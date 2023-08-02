@@ -1,0 +1,7 @@
+Herkese merhaba. Kullanım için öncelikle fiiller adlı örnek 
+dosyada olduğu gibi kelimeleri yazınız. - işareti ile kelime
+birbirinden ayrılmakta.
+Programı açınca BAŞLA butonuna basınız. Açılan yeni ekranda
+Dosya seçmek için gri boşluga basıp dosya seçiniz. Ardından
+EKLE butonuna basıp SORU DİLİ seçimin yapınız. OYUNA BAŞLA 
+ile kelimeleri getire bilirsiniz. 

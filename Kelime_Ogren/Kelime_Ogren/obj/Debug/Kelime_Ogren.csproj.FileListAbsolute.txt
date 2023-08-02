@@ -1,0 +1,12 @@
+C:\Users\izbur\Desktop\ozelders_ugur_burak\Kelime_Ogren\Kelime_Ogren\obj\Debug\Kelime_Ogren.csproj.AssemblyReference.cache
+C:\Users\izbur\Desktop\ozelders_ugur_burak\Kelime_Ogren\Kelime_Ogren\obj\Debug\Kelime_Ogren.csproj.SuggestedBindingRedirects.cache
+C:\Users\izbur\Desktop\ozelders_ugur_burak\Kelime_Ogren\Kelime_Ogren\obj\Debug\Kelime_Ogren.Formlar.AnaForm.resources
+C:\Users\izbur\Desktop\ozelders_ugur_burak\Kelime_Ogren\Kelime_Ogren\obj\Debug\Kelime_Ogren.Properties.Resources.resources
+C:\Users\izbur\Desktop\ozelders_ugur_burak\Kelime_Ogren\Kelime_Ogren\obj\Debug\Kelime_Ogren.csproj.GenerateResource.cache
+C:\Users\izbur\Desktop\ozelders_ugur_burak\Kelime_Ogren\Kelime_Ogren\obj\Debug\Kelime_Ogren.csproj.CoreCompileInputs.cache
+C:\Users\izbur\Desktop\ozelders_ugur_burak\Kelime_Ogren\Kelime_Ogren\bin\Debug\Kelime_Ogren.exe.config
+C:\Users\izbur\Desktop\ozelders_ugur_burak\Kelime_Ogren\Kelime_Ogren\bin\Debug\Kelime_Ogren.exe
+C:\Users\izbur\Desktop\ozelders_ugur_burak\Kelime_Ogren\Kelime_Ogren\bin\Debug\Kelime_Ogren.pdb
+C:\Users\izbur\Desktop\ozelders_ugur_burak\Kelime_Ogren\Kelime_Ogren\obj\Debug\Kelime_Ogren.exe
+C:\Users\izbur\Desktop\ozelders_ugur_burak\Kelime_Ogren\Kelime_Ogren\obj\Debug\Kelime_Ogren.pdb
+C:\Users\izbur\Desktop\ozelders_ugur_burak\Kelime_Ogren\Kelime_Ogren\obj\Debug\Kelime_Ogren.Formlar.Oyuna_Basla.resources
